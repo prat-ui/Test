@@ -4,11 +4,7 @@ int main()
 {
     int n = 10;
 
-    if(n%2==0)
-    {
-        cout << "Even";
-    }
-    else
+    if(n%2!=0)
     {
         cout << "Odd";
     }
