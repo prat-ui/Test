@@ -8,4 +8,8 @@ int main()
     {
         cout << "Even";
     }
+    else
+    {
+        cout << "Odd";
+    }
 }
